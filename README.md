@@ -12,7 +12,6 @@ href="https://github.com/rajat-porwal" alt="Hello Coders" width="60%"/> <br>
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=rajat-porwal&style=flat&color=orange&label=PROFILE+VIEWS)
-[![](https://img.shields.io/badge/linkedin-rajat-porwal)]
 [![linkedin badge](https://img.shields.io/badge/LinkedIN-js?style=plastic&logo=linkedin&logoColor=Red&color=White)](https://www.linkedin.com/in/rajatporwal/)
 
  <br>
