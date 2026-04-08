@@ -12,6 +12,7 @@ href="https://github.com/rajat-porwal" alt="Hello Coders" width="60%"/> <br>
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=rajat-porwal&style=flat&color=orange&label=PROFILE+VIEWS)
+
 [![linkedin badge](https://img.shields.io/badge/LinkedIN-js?style=plastic&logo=linkedin&logoColor=Red&color=White)](https://www.linkedin.com/in/rajatporwal/)
 
  <br>
@@ -73,9 +74,9 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/rajat-porwal">
 
-![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-porwal&theme=default)
-
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-porwal&theme=default)
+
+![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-porwal&theme=default)
 
 ![Language Repo Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-porwal&theme=default)
 
