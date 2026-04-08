@@ -7,13 +7,15 @@ href="https://github.com/rajat-porwal" alt="Hello Coders" width="60%"/> <br>
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-![Static Badge]()
 [![Youtube](https://img.shields.io/badge/YouTube-js?style=plastic&logo=Youtube&logoColor=Red&color=White&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNMNgbISmF4I%26list%3DPL9E80D3CB56F329AF)](https://www.youtube.com/watch?v=NMNgbISmF4I&list=PL9E80D3CB56F329AF) <be>
 
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=rajat-porwal&style=flat&color=orange&label=PROFILE+VIEWS)
-[![linkedin badge](https://img.shields.io/badge/linkedin-rajat-porwal)] <br>
+[![](https://img.shields.io/badge/linkedin-rajat-porwal)]
+[![linkedin badge](https://img.shields.io/badge/LinkedIN-js?style=plastic&logo=linkedin&logoColor=Red&color=White)](https://www.linkedin.com/in/rajatporwal/)
+
+ <br>
 </div>
 
 <hr></hr>
